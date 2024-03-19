@@ -1,0 +1,282 @@
+{
+    "prompt_count_cache_10168": {
+        "value": "8",
+        "timestamp": 1710748855,
+        "ttl": 1440
+    },
+    "prompt_count_cache_10488": {
+        "value": "4",
+        "timestamp": 1710745646,
+        "ttl": 1440
+    },
+    "prompt_count_cache_10616": {
+        "value": "10",
+        "timestamp": 1710783945,
+        "ttl": 1440
+    },
+    "prompt_count_cache_10772": {
+        "value": "27",
+        "timestamp": 1710783354,
+        "ttl": 1440
+    },
+    "prompt_count_cache_11192": {
+        "value": "20",
+        "timestamp": 1710764552,
+        "ttl": 1440
+    },
+    "prompt_count_cache_11420": {
+        "value": "5",
+        "timestamp": 1710786843,
+        "ttl": 1440
+    },
+    "prompt_count_cache_12460": {
+        "value": "5",
+        "timestamp": 1710789528,
+        "ttl": 1440
+    },
+    "prompt_count_cache_12912": {
+        "value": "1",
+        "timestamp": 1710784583,
+        "ttl": 1440
+    },
+    "prompt_count_cache_1500": {
+        "value": "2",
+        "timestamp": 1710788249,
+        "ttl": 1440
+    },
+    "prompt_count_cache_1620": {
+        "value": "11",
+        "timestamp": 1710785111,
+        "ttl": 1440
+    },
+    "prompt_count_cache_1844": {
+        "value": "1",
+        "timestamp": 1710741100,
+        "ttl": 1440
+    },
+    "prompt_count_cache_2208": {
+        "value": "1",
+        "timestamp": 1710785825,
+        "ttl": 1440
+    },
+    "prompt_count_cache_2500": {
+        "value": "5",
+        "timestamp": 1710788454,
+        "ttl": 1440
+    },
+    "prompt_count_cache_2736": {
+        "value": "22",
+        "timestamp": 1710746601,
+        "ttl": 1440
+    },
+    "prompt_count_cache_2844": {
+        "value": "3",
+        "timestamp": 1710742752,
+        "ttl": 1440
+    },
+    "prompt_count_cache_2896": {
+        "value": "1",
+        "timestamp": 1710748939,
+        "ttl": 1440
+    },
+    "prompt_count_cache_2944": {
+        "value": "2",
+        "timestamp": 1710751938,
+        "ttl": 1440
+    },
+    "prompt_count_cache_3340": {
+        "value": "3",
+        "timestamp": 1710743810,
+        "ttl": 1440
+    },
+    "prompt_count_cache_3700": {
+        "value": "9",
+        "timestamp": 1710744380,
+        "ttl": 1440
+    },
+    "prompt_count_cache_3932": {
+        "value": "8",
+        "timestamp": 1710748098,
+        "ttl": 1440
+    },
+    "prompt_count_cache_4580": {
+        "value": "1",
+        "timestamp": 1710786909,
+        "ttl": 1440
+    },
+    "prompt_count_cache_4612": {
+        "value": "1",
+        "timestamp": 1710813804,
+        "ttl": 1440
+    },
+    "prompt_count_cache_4780": {
+        "value": "35",
+        "timestamp": 1710780507,
+        "ttl": 1440
+    },
+    "prompt_count_cache_5136": {
+        "value": "4",
+        "timestamp": 1710789033,
+        "ttl": 1440
+    },
+    "prompt_count_cache_5536": {
+        "value": "29",
+        "timestamp": 1710762374,
+        "ttl": 1440
+    },
+    "prompt_count_cache_6060": {
+        "value": "2",
+        "timestamp": 1710810272,
+        "ttl": 1440
+    },
+    "prompt_count_cache_6100": {
+        "value": "2",
+        "timestamp": 1710755698,
+        "ttl": 1440
+    },
+    "prompt_count_cache_6112": {
+        "value": "4",
+        "timestamp": 1710755662,
+        "ttl": 1440
+    },
+    "prompt_count_cache_6576": {
+        "value": "22",
+        "timestamp": 1710755561,
+        "ttl": 1440
+    },
+    "prompt_count_cache_6644": {
+        "value": "21",
+        "timestamp": 1710808106,
+        "ttl": 1440
+    },
+    "prompt_count_cache_6716": {
+        "value": "7",
+        "timestamp": 1710788239,
+        "ttl": 1440
+    },
+    "prompt_count_cache_6728": {
+        "value": "2",
+        "timestamp": 1710752450,
+        "ttl": 1440
+    },
+    "prompt_count_cache_6808": {
+        "value": "6",
+        "timestamp": 1710742258,
+        "ttl": 1440
+    },
+    "prompt_count_cache_7160": {
+        "value": "1",
+        "timestamp": 1710745119,
+        "ttl": 1440
+    },
+    "prompt_count_cache_7192": {
+        "value": "7",
+        "timestamp": 1710787951,
+        "ttl": 1440
+    },
+    "prompt_count_cache_7216": {
+        "value": "37",
+        "timestamp": 1710785088,
+        "ttl": 1440
+    },
+    "prompt_count_cache_7276": {
+        "value": "2",
+        "timestamp": 1710751378,
+        "ttl": 1440
+    },
+    "prompt_count_cache_7308": {
+        "value": "21",
+        "timestamp": 1710743516,
+        "ttl": 1440
+    },
+    "prompt_count_cache_7368": {
+        "value": "30",
+        "timestamp": 1710755398,
+        "ttl": 1440
+    },
+    "prompt_count_cache_7424": {
+        "value": "40",
+        "timestamp": 1710747643,
+        "ttl": 1440
+    },
+    "prompt_count_cache_7448": {
+        "value": "38",
+        "timestamp": 1710761843,
+        "ttl": 1440
+    },
+    "prompt_count_cache_8128": {
+        "value": "1",
+        "timestamp": 1710748909,
+        "ttl": 1440
+    },
+    "prompt_count_cache_8312": {
+        "value": "1",
+        "timestamp": 1710813827,
+        "ttl": 1440
+    },
+    "prompt_count_cache_8376": {
+        "value": "11",
+        "timestamp": 1710745390,
+        "ttl": 1440
+    },
+    "prompt_count_cache_8556": {
+        "value": "1",
+        "timestamp": 1710742215,
+        "ttl": 1440
+    },
+    "prompt_count_cache_8568": {
+        "value": "1",
+        "timestamp": 1710743735,
+        "ttl": 1440
+    },
+    "prompt_count_cache_8736": {
+        "value": "40",
+        "timestamp": 1710742209,
+        "ttl": 1440
+    },
+    "prompt_count_cache_8756": {
+        "value": "9",
+        "timestamp": 1710781264,
+        "ttl": 1440
+    },
+    "prompt_count_cache_9080": {
+        "value": "1",
+        "timestamp": 1710744944,
+        "ttl": 1440
+    },
+    "prompt_count_cache_9332": {
+        "value": "18",
+        "timestamp": 1710761977,
+        "ttl": 1440
+    },
+    "prompt_count_cache_9548": {
+        "value": "2",
+        "timestamp": 1710811400,
+        "ttl": 1440
+    },
+    "prompt_count_cache_9616": {
+        "value": "5",
+        "timestamp": 1710786341,
+        "ttl": 1440
+    },
+    "prompt_count_cache_9796": {
+        "value": "1",
+        "timestamp": 1710810246,
+        "ttl": 1440
+    },
+    "prompt_count_cache_9848": {
+        "value": "13",
+        "timestamp": 1710739722,
+        "ttl": 1440
+    },
+    "prompt_count_cache_9908": {
+        "value": "2",
+        "timestamp": 1710751833,
+        "ttl": 1440
+    },
+    "upgrade_check": {
+        "value": "v19.17.2",
+        "timestamp": 1710723300,
+        "ttl": 10080
+    }
+}
